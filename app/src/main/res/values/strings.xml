@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Auto Tapper</string>
+    <string name="service_desc">Performs taps and swipes on screen at the positions you set. Needed to auto-click for you.</string>
+</resources>
